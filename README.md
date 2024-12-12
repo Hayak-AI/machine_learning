@@ -1,5 +1,12 @@
 # machine_learning
 
+# Team Of Machine Learning
+| Name | Bangkit ID |
+|--------|-------|
+| Ferry Saputra |  |
+| Rafael Aryapati Soebagijo | m359b4ky3573 |
+| Frishka Amelia |  |
+
 # 🔊 Scream Sound Classification using CNN
 
 ## 📝 Project Overview
