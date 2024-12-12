@@ -18,11 +18,6 @@ This project develops a Convolutional Neural Network (CNN) for classifying audio
 - 📈 High accuracy sound classification
 
 ## 🛠 Technologies Used
-![Python](https://img.shields.io/badge/Python-3.8+-blue)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)
-![Keras](https://img.shields.io/badge/Keras-2.x-red)
-![Librosa](https://img.shields.io/badge/Librosa-0.9+-green)
-
 - Python
 - TensorFlow
 - Keras
