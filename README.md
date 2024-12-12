@@ -3,9 +3,9 @@
 # Team Of Machine Learning
 | Name | Bangkit ID |
 |--------|-------|
-| Ferry Saputra |  |
-| Rafael Aryapati Soebagijo | m359b4ky3573 |
-| Frishka Amelia |  |
+| Rafael Aryapati Soebagijo | M359B4KY3573 |
+| Ferry Saputra | M359B4KY1497 |
+| Friskha Amellia Eddy | M182B4KX1560 |
 
 # 🔊 Scream Sound Classification using CNN
 
@@ -49,6 +49,37 @@ This project develops a Convolutional Neural Network (CNN) for classifying audio
 
 ## 🚀 Installation
 
-
 ### Prerequisites
 - Python 3.8+
+
+### Install Dependencies
+```
+pip install -r requirements.txt
+```
+
+## 💻 Usage Example
+```
+# Load and preprocess data
+data, labels = load_and_preprocess_data(data_dir, classes)
+
+# Train the model
+model.fit(X_train, y_train, epochs=25, batch_size=32)
+
+# Make predictions
+predictions = model.predict(X_test)
+```
+
+## 🔍 Data Augmentation Techniques
+- 🔊 Noise Addition
+- ⏰ Time Shifting
+
+## 🌟 Key Contributions
+1. Novel approach to audio classification
+2. Robust CNN architecture
+3. High-performance sound detection model
+
+## 🔮 Future Improvements
+- Collect more diverse audio data
+- Experiment with advanced model architectures
+- Implement real-time audio classification
+- Add more audio augmentation techniques
