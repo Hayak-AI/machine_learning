@@ -55,18 +55,6 @@ This project develops a Convolutional Neural Network (CNN) for classifying audio
 pip install -r requirements.txt
 ```
 
-## 💻 Usage Example
-```
-# Load and preprocess data
-data, labels = load_and_preprocess_data(data_dir, classes)
-
-# Train the model
-model.fit(X_train, y_train, epochs=25, batch_size=32)
-
-# Make predictions
-predictions = model.predict(X_test)
-```
-
 ## 🔍 Data Augmentation Techniques
 - 🔊 Noise Addition
 - ⏰ Time Shifting
