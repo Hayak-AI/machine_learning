@@ -45,12 +45,6 @@ This project develops a Convolutional Neural Network (CNN) for classifying audio
 | Training Accuracy | 96.77% |
 | Validation Accuracy | 95.54% |
 
-## 🚀 Installation
-
-### Prerequisites
-- Python 3.8+
-
-
 ## 🔍 Data Augmentation Techniques
 - 🔊 Noise Addition
 - ⏰ Time Shifting
