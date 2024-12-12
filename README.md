@@ -50,10 +50,6 @@ This project develops a Convolutional Neural Network (CNN) for classifying audio
 ### Prerequisites
 - Python 3.8+
 
-### Install Dependencies
-```
-pip install -r requirements.txt
-```
 
 ## 🔍 Data Augmentation Techniques
 - 🔊 Noise Addition
