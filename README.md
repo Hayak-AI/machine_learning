@@ -1,6 +1,4 @@
-# machine_learning
-
-# Team Of Machine Learning
+# 🧑‍🔬 Team Of Machine Learning
 | Name | Bangkit ID |
 |--------|-------|
 | Rafael Aryapati Soebagijo | M359B4KY3573 |
