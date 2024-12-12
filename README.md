@@ -57,7 +57,7 @@ This project develops a Convolutional Neural Network (CNN) for classifying audio
 ## 🚀 Access the Project on Google Colab
 You can view and run the Scream Sound Classification model directly on Google Colab using the link below:
 
-[Open the Project on Google Colab](<[URL](https://colab.research.google.com/drive/1TMwQI4BNnYH0yhgwzblGt5WFAiGtuuWA?usp=sharing)>)
+[Open the Project on Google Colab](<(https://colab.research.google.com/drive/1TMwQI4BNnYH0yhgwzblGt5WFAiGtuuWA?usp=sharing)>)
 
 
 ## 🔮 Future Improvements
